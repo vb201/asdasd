@@ -49,7 +49,7 @@
             <MediaFiles>
               <!-- FIX: HLS should be streaming + HLS MIME type -->
               <MediaFile delivery="streaming" type="application/vnd.apple.mpegurl" width="3840" height="2160" maintainAspectRatio="true" scalable="true" bitrate="7575">
-                <![CDATA[https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8]]>
+                <![CDATA[https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
