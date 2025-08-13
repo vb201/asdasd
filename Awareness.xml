@@ -1,0 +1,28 @@
+
+
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+    <Ad id="62">
+        <InLine>
+            <AdSystem version="3.0">AD_SYSTEM</AdSystem>
+            <AdTitle>AD_SYSTEM - 62</AdTitle>
+            <Error>
+                <![CDATA[https://aj2687.bid/zzDIV8nzo55oxLYHwaYC93G5w1c5hDE5YQgTQ389y0qvLc6iVccp94SevRuF0GSK2_pE9xN2nDiHRLM2l1asURf1Ul1G33ltCDv_qpWCixt8VqSj52MNJ8GGfW_6FYyCFCGQ9vMO3zdk4EbzGDno4xXOtOK0jUr6ANHiWYh79PHAYG-WLxvHzygCOllDBSW7iY_P7BB_aHc4IaAlVfa8HdxvXrZ5KlWEOUkm1N1hG5mFYgG-q-6qjQTJE4SX7IB4Re1iduCvqRu7vGy3ESn5ffSTzSu1WxyNurlaJEyz6Dtty4NASxabktDSmCBExF_owVdjGeibehbHUvNhhoJTfkrGPmXJUysPqymcAvcdQ1lLxFEGhEHLXrM_LisRE922pZJM4EETOkQhnA8ifdg?DC=HZ]]>
+            </Error>
+            <Impression>
+                <![CDATA[https://aj2687.bid/zDetDddn1DH3bXR5XnKTOP1fccwtu7ucz93ILxeuwN7YJ80gTmgr40wsW-Y-O89miAgryrl97Q_LyulpcfrmXoT_6bJfgCpfdj8VQv5uao8aSR2LbDyYpTwZ2kDIBV97q9OeuhlJpVX66-ixuEiecGw9rfydmjHbCQlXmxlxSZLq0DDOGU5OtEDXqHS_-5u_h09w4mzoOWH5dM0RtCNKCo0l2AaJSLIst6rF04xgk7F5KN5d0mNwy4ZyQW4JF9w5zD_kz-AoCzKSknR1JU8sa20w3Tm4ITbVIgPFV--9dkPO_dIdX-Ky7um4S7JIDw4q-?DC=HZ]]>
+            </Impression>
+            <Creatives>
+                <Creative>
+                    <Linear skipoffset="00:00:10">
+                        <Duration>00:00:20</Duration>
+                        <MediaFiles>
+                            <MediaFile bitrate="438" delivery="progressive" height="360" maintainAspectRatio="true" scalable="true" type="video/mp4" width="640">
+                                <![CDATA[https://cdn77.aj2687.bid/files2687/45/40/62/AwarenessCampagn.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
