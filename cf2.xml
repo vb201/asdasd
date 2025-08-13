@@ -1,0 +1,51 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+  <Ad id="58">
+    <InLine>
+      <AdSystem version="3.0">AD_SYSTEM</AdSystem>
+      <AdTitle>Test title</AdTitle>
+
+      <Error><![CDATA[https://aj2687.bid/zCaqIr04SLllCOw672T3iOR8V657FuyL71hktykziX-aYEygS7MzfElE7UMxSUE9oAq6tlVAqTqXP31By7jSh0RmQEldZt0Yo2j87YU5_uCRD_YDMFt5U4DvZoBzwCfYNxzZs-_EW7YMrl_NdIyW1mYnRsXZNAdJ64Wx8XxpO09UYIL_jrIXIdBLvLo3aELfBFL6kC3aWdtUS8MFNTvQGe7jNrc1QQE6eKEsjJsID4ww_F259t5GcyArX-XSMGWMD9XLDA8fia6G7RzJBMpiQ4Zx7MWNadtH7lXyrxwt-w-pXcDVNBjgHjprfahbWqfPVDNdVDH5xQNWXcNmczPh3eCs9M5PK-K-LATCn73G5yfnZxdw7xtslxsb0SCusPd6MdrTznu-HCnkNcDMjgA?DC=HZFI]]></Error>
+
+      <Impression><![CDATA[https://aj2687.bid/zIYAt5v4Tm_WlTa8duGDSQdXk_z4KVQgFbgcl1IgP2ud-FlWA96FQZXLUSPm-Lf52EjQa4hdt-mMVw4T1opcT_96C0FfSt4E_VxnjwQLOWoBz1UEyRbpiWlKwWQWW28cAyXFRup0EcreMN2bSN5Idi90IErpWOR_13VmUFoVxKqohYMDaIWMjhR1bPPkKfWpMBFKa84BdieDN98cSstBzcVZRcPCyVJlJe9nqWdKl3f74dPi-EGeuxjj7awN8E7BskcO2M0a8k3EPKaI8aO686beYQHQBpfLvLt494Y97IjMPStpNCmavZxRQFktWO3m5?DC=HZFI]]></Impression>
+
+      <Creatives>
+        <Creative>
+          <Linear skipoffset="00:00:00">
+            <Duration>00:00:05</Duration>
+
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://aj2687.bid/track?e=start&ad=58]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[https://aj2687.bid/track?e=firstQuartile&ad=58]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[https://aj2687.bid/track?e=midpoint&ad=58]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[https://aj2687.bid/track?e=thirdQuartile&ad=58]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://aj2687.bid/track?e=complete&ad=58]]></Tracking>
+              <Tracking event="mute"><![CDATA[https://aj2687.bid/track?e=mute&ad=58]]></Tracking>
+              <Tracking event="unmute"><![CDATA[https://aj2687.bid/track?e=unmute&ad=58]]></Tracking>
+              <Tracking event="pause"><![CDATA[https://aj2687.bid/track?e=pause&ad=58]]></Tracking>
+              <Tracking event="resume"><![CDATA[https://aj2687.bid/track?e=resume&ad=58]]></Tracking>
+              <Tracking event="rewind"><![CDATA[https://aj2687.bid/track?e=rewind&ad=58]]></Tracking>
+              <Tracking event="fullscreen"><![CDATA[https://aj2687.bid/track?e=fullscreen&ad=58]]></Tracking>
+              <Tracking event="expand"><![CDATA[https://aj2687.bid/track?e=expand&ad=58]]></Tracking>
+              <Tracking event="collapse"><![CDATA[https://aj2687.bid/track?e=collapse&ad=58]]></Tracking>
+              <Tracking event="acceptInvitationLinear"><![CDATA[https://aj2687.bid/track?e=acceptInvitationLinear&ad=58]]></Tracking>
+              <Tracking event="closeLinear"><![CDATA[https://aj2687.bid/track?e=closeLinear&ad=58]]></Tracking>
+              <Tracking event="skip"><![CDATA[https://aj2687.bid/track?e=skip&ad=58]]></Tracking>
+              <Tracking event="progress" offset="00:00:05"><![CDATA[https://aj2687.bid/track?e=progress_5s&ad=58]]></Tracking>
+            </TrackingEvents>
+
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://aj2687.bid/clickthrough?ad=58]]></ClickThrough>
+              <ClickTracking><![CDATA[https://aj2687.bid/track?e=click&ad=58]]></ClickTracking>
+            </VideoClicks>
+
+            <MediaFiles>
+              <MediaFile delivery="streaming" type="application/dash+xml" width="3840" height="2160" maintainAspectRatio="true" scalable="true" bitrate="7575">
+                <![CDATA[https://dash.akamaized.net/dash264/TestCasesHD/2b/qualcomm/1/MultiResMPEG2.mpd]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
