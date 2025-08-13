@@ -11,7 +11,7 @@
             </Impression>
             <Creatives>
                 <Creative>
-                    <Linear skipoffset="00:00:10">
+                    <Linear skipoffset="00:00:00">
                         <Duration>00:00:05</Duration>
                         <MediaFiles>
                             <MediaFile bitrate="7575" delivery="progressive" height="2160" maintainAspectRatio="true" scalable="true" type="video/mp4" width="3840">

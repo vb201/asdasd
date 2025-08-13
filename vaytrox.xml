@@ -1,0 +1,26 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+    <Ad id="61">
+        <InLine>
+            <AdSystem version="3.0">AD_SYSTEM</AdSystem>
+            <AdTitle>AD_SYSTEM - 61</AdTitle>
+            <Error>
+                <![CDATA[https://aj2687.bid/zugU2G6mezbfOmCk0wFLvMQOUmpzFcgxwpRkJT0jC5L8bQ9viKgJFim-dPUGXjQ2tg00O2_am5M6BZmDMdgjm6arCswITNt8eOhJ-4eoNjP1EwQM9KY_fGatkUkZLD2xBSlKmV9kez5-r7UtUQckQ9GWpUuJXgK78Dlr1ISWV1THYYjFC9xQ_e8TZWxGFlJzzbcEmeeenc12COlZjhck_kAUWdN0FFDWnfr_ctlAtj3EoWTaFFe0s9SFxBRl0pGdBrCJ1Kzcn6suOuOb2-OEhj2v3Q0E3lxNi7F3S-vPw7JObcrv5MJgbqS0o0BmUDrv1a2x0BKJhjz7DwcEqYm4Dj6gR69N4I1MRmGf53x7mTdlJ8AiliYqS_rVsa5dXIK82N_O_a7hq2dpE5FswJA?DC=HZ]]>
+            </Error>
+            <Impression>
+                <![CDATA[https://aj2687.bid/zx5V19qU0ZQ3uS2i2FOFZPx5aBVN5G22GHNTb_ZP9aQLKdKVeFm0o0BSPfHN2ANxJaMj81opXbzIL7U88OLLe1-lj7oaYjrIb8FSmv8nHgKgkaZ7SIKu8PSuHM3-s_UKnSqFN8HWLvf7A6tVh6iVKBQnw0v5Yszm-_eKb6t7Z2NqA-0C47NPEBduTlxdyykLCpm_KiVLIPH-dC2xtCG1vtVorkwzexuttk7k2n7cWhhmI3alEo_Ylb0CHnzbLm5FbTmECBm2_aDm2iGJMGWJ4vkNt3rYrG-Bm98lR6LVRI40qBznh04ZYUlJNhbjOEusW?DC=HZ]]>
+            </Impression>
+            <Creatives>
+                <Creative>
+                    <Linear skipoffset="00:00:00">
+                        <Duration>00:00:05</Duration>
+                        <MediaFiles>
+                            <MediaFile bitrate="8095" delivery="progressive" height="2160" maintainAspectRatio="true" scalable="true" type="video/mp4" width="3840">
+                                <![CDATA[https://cdn77.aj2687.bid/files2687/45/40/61/vaytrox.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
