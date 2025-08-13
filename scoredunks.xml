@@ -13,6 +13,30 @@
                 <Creative>
                     <Linear skipoffset="00:00:07">
                         <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <!-- Milestones -->
+                            <Tracking event="start"><![CDATA[https://aj2687.bid/track?e=start&ad=60]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[https://aj2687.bid/track?e=firstQuartile&ad=60]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[https://aj2687.bid/track?e=midpoint&ad=60]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[https://aj2687.bid/track?e=thirdQuartile&ad=60]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://aj2687.bid/track?e=complete&ad=60]]></Tracking>
+
+                            <!-- Player interactions -->
+                            <Tracking event="mute"><![CDATA[https://aj2687.bid/track?e=mute&ad=60]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[https://aj2687.bid/track?e=unmute&ad=60]]></Tracking>
+                            <Tracking event="pause"><![CDATA[https://aj2687.bid/track?e=pause&ad=60]]></Tracking>
+                            <Tracking event="resume"><![CDATA[https://aj2687.bid/track?e=resume&ad=60]]></Tracking>
+                            <Tracking event="rewind"><![CDATA[https://aj2687.bid/track?e=rewind&ad=60]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[https://aj2687.bid/track?e=fullscreen&ad=60]]></Tracking>
+                            <Tracking event="expand"><![CDATA[https://aj2687.bid/track?e=expand&ad=60]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[https://aj2687.bid/track?e=collapse&ad=60]]></Tracking>
+                            <Tracking event="acceptInvitationLinear"><![CDATA[https://aj2687.bid/track?e=acceptInvitationLinear&ad=60]]></Tracking>
+                            <Tracking event="closeLinear"><![CDATA[https://aj2687.bid/track?e=closeLinear&ad=60]]></Tracking>
+
+                            <!-- Skips & timed progress -->
+                            <Tracking event="skip"><![CDATA[https://aj2687.bid/track?e=skip&ad=60]]></Tracking>
+                            <Tracking event="progress" offset="00:00:05"><![CDATA[https://aj2687.bid/track?e=progress_5s&ad=60]]></Tracking>
+                        </TrackingEvents>
                         <MediaFiles>
                             <MediaFile bitrate="10258" delivery="progressive" height="2160" maintainAspectRatio="true" scalable="true" type="video/mp4" width="3840">
                                 <![CDATA[https://cdn77.aj2687.bid/files2687/45/40/60/scoredunks.mp4]]>
